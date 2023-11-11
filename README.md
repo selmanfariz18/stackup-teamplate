@@ -1,19 +1,21 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
 # Project Name
-Long Description about project. This project do that. This project is awesome...
+Its a react app which can be used for online quiz. You can modify questions and answers on [constants.js](src/constants.js) or can use any api for this.
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Selmanul Farizy K A [Github url](https://github.com/selmanfariz18)
+2. Aadil Basheer KB [Github url](https://github.com/aadilbasheer)
 ## Team Id
-Team id here
+reboot
 ## Link to product walkthrough
-[link to video]
+[vedio link](https://www.loom.com/share/5b0d274b0f6540eda447feab5f871c22?t=27&sid=2779352b-ea23-470e-88e0-8529f473ace6)
 ## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+1. Its a react app, developed with vite. Questions and answers are preloaded now.
+2. [vedio link](https://www.loom.com/share/5b0d274b0f6540eda447feab5f871c22?t=27&sid=2779352b-ea23-470e-88e0-8529f473ace6)
 ## Libraries used
-Library Name - Version
+npm - 9.8.1
+react-router-dom - ^6.3.0
+nodemon - 5.7.1
 ## How to configure
-Instructions for setting up project
+npm run build
 ## How to Run
-Instructions for running
+npm run dev
